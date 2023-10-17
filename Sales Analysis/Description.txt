@@ -1,9 +1,0 @@
-This is a dashboard for a Company, who have sales person, and the details of the orders and returns.
-
-There are three main tables- Orders, People and Returns.
-
-Here the Person table is the Fact table and the other two Orders and Returns are the dimensions table in the star schema.
-
-A dashboard is created to visualise the year wise data, related to Sales, the customers and the top products according to profit and loss.
-
-Thanks!

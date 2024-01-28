@@ -1,0 +1,11 @@
+Here is a dataset, containing sales information during the time of festive season i.e - Diwali.
+
+We need to perform Exploratory Data Analysis to analyse the dataset and get meaningful insights from it.
+
+The data driven insights can be helpful in the upcoming time, for various reasons, as the EDA performed here can be used for multiple purposes, to get to conclusions.
+
+The steps followed and the insights can be found in the Jupyter notebook.
+
+Here I have used Pandas to create the dataframe and perform data cleaning using few functions. Then used the Seaborn library to create few visualizations and charts, to get to the conclusion.
+
+The insights from each section and the final conclusion derived from the analysis is mentioned in the Jupyter Notebook.
